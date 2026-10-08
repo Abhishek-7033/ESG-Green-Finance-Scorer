@@ -1,0 +1,11 @@
+company,sector,emissions_intensity,renewable_pct,women_workforce_pct,injury_rate,turnover_pct,independent_board_pct,women_board_pct,ceo_pay_ratio,claim_strength
+GreenSteel Ltd,Materials,820,18,12,1.9,14,50,17,210,8
+HeavyMetal Corp,Materials,1150,6,9,3.1,19,40,10,340,3
+SolarWave Energy,Energy,95,88,28,0.8,9,67,33,90,7
+FossilOne Petroleum,Energy,640,4,15,2.4,12,45,11,420,9
+CodeNest Software,Technology,12,72,34,0.2,16,70,36,150,6
+DataForge Systems,Technology,18,55,31,0.3,18,60,30,180,5
+FreshFarm Foods,Consumer,210,30,41,1.4,22,55,25,120,7
+UrbanWear Retail,Consumer,150,25,52,0.9,28,50,28,130,8
+CityBank Holdings,Financials,8,45,44,0.1,13,75,38,95,6
+SafeLife Insurance,Financials,6,50,47,0.1,11,70,40,85,5
