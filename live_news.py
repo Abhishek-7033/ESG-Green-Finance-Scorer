@@ -9,3 +9,5 @@ def fetch_headlines(company: str, n: int = 10) -> pd.DataFrame:
     feed = feedparser.parse(url)
     rows = [{"company": company, "headline": e.title} for e in feed.entries[:n]]
     return pd.DataFrame(rows, columns=["company", "headline"])
+
+// akshat mishra
